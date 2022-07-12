@@ -302,7 +302,8 @@
 body {
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
-  color: #232323;
+  color: #000;
+  background-color: #000;
 }
 
 nav li:last-child a {
@@ -322,11 +323,12 @@ nav li a:hover {
 }
 
 section.hero {
-  background: #F8F8F8;
+  background: orange;
 }
 
 .size {
-  background: #F8F8F8;
+  background: white;
+  color: #000;
 }
 
 .add-to-cart {
